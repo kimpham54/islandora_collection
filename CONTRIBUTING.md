@@ -1,6 +1,6 @@
 # Welcome!
 
-If you are reading this document then you are interested in contributing to the Islandora and Fedora 4 project. All contributions are welcome: use-cases, documentation, code, patches, bug reports, feature requests, etc. You do not need to be a programmer to speak up!
+If you are reading this document then you are interested in contributing to the Islandora CLAW project. All contributions are welcome: use-cases, documentation, code, patches, bug reports, feature requests, etc. You do not need to be a programmer to speak up!
 
 ## Workflows
 
@@ -8,7 +8,7 @@ The group meets each Wednesday at 1PM Eastern. Meeting notes and announcements a
 
 ### Use cases
 
-If you would like to submit a use case for the Islandora and Fedora integration project, please submit and issue [here](https://github.com/Islandora-CLAW/CLAW/issues/new) using the [Use Case template](https://github.com/Islandora-CLAW/CLAW/wiki/Use-Case-template), assign the "use case" label to the issue.
+If you would like to submit a use case for the Islandora CLAW project, please submit and issue [here](https://github.com/Islandora-CLAW/CLAW/issues/new) using the [Use Case template](https://github.com/Islandora-CLAW/CLAW/wiki/Use-Case-template), assign the "use case" label to the issue.
 
 ### Documentation
 
